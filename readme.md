@@ -20,4 +20,5 @@ flutter run
   - PillNet
 
 ## Previews
+<img src="PictoPill/Screenshot_20191111-131135.png" width="200" height="400"> <img src="PictoPill/Screenshot_20191111-131344.png" width="400" height="300">
 
